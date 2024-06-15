@@ -28,7 +28,9 @@ To set up the project locally, follow these steps:
 ## Demo
 
 1. **Below you can find how the modal is displayed**
-   ![ScreenShot](https://github.com/Karandumbre/Invoice-Insurance-Popup/blob/master/demo.mov)
+
+https://github.com/Karandumbre/Invoice-Insurance-Popup/assets/40163773/a2261b48-6eda-42b6-b546-14409dfff25f
+
 
 # Insurance Invoice Modal
 
